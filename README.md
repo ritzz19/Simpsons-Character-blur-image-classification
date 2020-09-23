@@ -1,4 +1,4 @@
-# Simpsons Character identification:
+# Simpsons Character identification(end-to-end deployment)
 In this project I have taken ten simpsons charcaters and have tried to make end to end image classification.
 
 ## Data generator:
