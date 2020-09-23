@@ -1,5 +1,5 @@
 # Simpsons Character identification(end-to-end deployment)
-In this project I have taken ten simpsons charcaters and have tried to make end to end image classification.
+In this project I have taken ten simpsons charcaters and have tried to make end to end image classification where it can detect character which are even blurred.
 
 ## Data generator:
 
@@ -16,7 +16,7 @@ In this project I have taken ten simpsons charcaters and have tried to make end 
 
 1. First Data augmentation was applied for the category which is less than 3% of total dataset.
 
-2. To identify blurr images better random blurr ranging from 1 to 50 have been used.
+2. To identify blur images better random blurr ranging from 1 to 50 have been used.
 
 3. For training two transfer learning technique such as VGG16 and ResNet50 were used.
 
@@ -29,4 +29,9 @@ Flask and heroku is been used for the deployment.
 
 https://simpson-classification.herokuapp.com/
 
+Detecting blur image:
+
+![2020-09-23_14-22-17](https://user-images.githubusercontent.com/30840805/93990068-49a36700-fda8-11ea-94df-f142ecae3d6a.png)
+
+Detecting clear image :
 ![2020-09-23_13-35-21](https://user-images.githubusercontent.com/30840805/93985494-cb909180-fda2-11ea-8229-dd17333c9903.png)
