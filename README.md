@@ -31,7 +31,7 @@ https://simpsons-character.herokuapp.com/
 
 Detecting blur image:
 
-![2020-09-23_14-22-17](https://user-images.githubusercontent.com/30840805/93990068-49a36700-fda8-11ea-94df-f142ecae3d6a.png)
+![sim_blur (1)](https://user-images.githubusercontent.com/30840805/95685831-00f90400-0c18-11eb-8806-3159596d3805.png)
 
 Detecting clear image :
-![2020-09-23_13-35-21](https://user-images.githubusercontent.com/30840805/93985494-cb909180-fda2-11ea-8229-dd17333c9903.png)
+![sim_blur (2)](https://user-images.githubusercontent.com/30840805/95685837-05bdb800-0c18-11eb-8d78-b7e25cf72b84.png)
