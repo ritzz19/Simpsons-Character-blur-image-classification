@@ -27,7 +27,7 @@ In this project I have taken ten simpsons charcaters and have tried to make end 
 
 Flask and heroku is been used for the deployment. 
 
-https://simpson-classification.herokuapp.com/
+https://simpsons-character.herokuapp.com/
 
 Detecting blur image:
 
