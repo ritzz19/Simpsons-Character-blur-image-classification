@@ -9,7 +9,7 @@ In this project I have taken ten simpsons charcaters and have tried to make end 
 
 4. I have made skewed dataset where I have used one category which is just 3% of total dataset.
 
-5. I have done data generator porcess in Data Genrator file.
+5. I have done data generator process in Data Genrator file.
 
 
 ## Training:
